@@ -43,7 +43,7 @@ Join me as we navigate the confluence of creativity, technology, and adept probl
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmaryamitiche)](https://github.com/sarahmaryamitiche/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmaryamitiche&layout=donut)](https://github.com/sarahmaryamitiche/github-readme-stats)
 
   <h3> Sarah's Coding Journey</h3>
   Embarking on my coding journey as a curious [computer science engineering] student, I cultivated a fervent passion for delving into the intricate world of programming. From the foundational realms of code, Unix, Linux, and theory, I navigated the landscape with a hunger for knowledge. Mastering the basics of algorithmics allowed me to seamlessly translate critical problem-solving into efficient algorithms and subsequently into code in different languages. Starting with languages like Pascal, C, and eventually embracing the versatility of Java and Python, I set a goal to excel in both domains, a commitment that has brought me to my current standing. Throughout my academic journey, I complemented my learning with online courses, shaping my skills in full-stack development, with proficiency in both [backend and frontend technologies].
