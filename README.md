@@ -1,6 +1,5 @@
 # 👩‍💻 Sarah Marya Mitiche
-**'CS Engineer, AI Enthusiast, and Creative Visionary'**
-***CS Engineer, AI Enthusiast and Creative Visionary***
+**CS Engineer, AI Enthusiast and Creative Visionary**
 
 In the dynamic intersection of [computer science engineering], [artificial intelligence] and [cybersecurity], I am a seasoned developer and visionary architect crafting my imprint on the digital landscape. Armed with a solid foundation in computer science engineering from my undergraduate years, I've honed my skills in engineering both [front-end] and [back-end] solutions especially. My passion lies in the meticulous design and development of projects, dedicated to solving real-world challenges with a touch of innovation.
 
@@ -34,3 +33,7 @@ Join me as we navigate the confluence of creativity, technology, and adept probl
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
 <br />
+## 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=sarahmaryamitiche&show_icons=true&theme=gruvbox)
