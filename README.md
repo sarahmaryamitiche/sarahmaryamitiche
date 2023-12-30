@@ -39,6 +39,6 @@ Join me as we navigate the confluence of creativity, technology, and adept probl
 #
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahmaryamitiche&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahmaryamitiche&show_icons=true&theme=radical)
 
 #
