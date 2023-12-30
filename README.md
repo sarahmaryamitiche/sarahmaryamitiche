@@ -44,7 +44,7 @@ Join me as we navigate the confluence of creativity, technology, and adept probl
 #
 
 <details>
-  <summary><h3> Sarah's Coding Journey</h3></summary>
+  <h3> Sarah's Coding Journey</h3>
   Embarking on my coding journey as a curious [computer science engineering] student, I cultivated a fervent passion for delving into the intricate world of programming. From the foundational realms of code, Unix, Linux, and theory, I navigated the landscape with a hunger for knowledge. Mastering the basics of algorithmics allowed me to seamlessly translate critical problem-solving into efficient algorithms and subsequently into code in different languages. Starting with languages like Pascal, C, and eventually embracing the versatility of Java and Python, I set a goal to excel in both domains, a commitment that has brought me to my current standing. Throughout my academic journey, I complemented my learning with online courses, shaping my skills in full-stack development, with proficiency in both [backend and frontend technologies].
   
   As my journey unfolded, I explored the realms of [data science] and [data engineering], actively participating in courses that enriched my expertise. I even took on the role of a junior data scientist for six months, gaining practical experience in the application of data-driven insights. One of my distinctive strengths lies in my proficiency with unit testing across various languages and my dedication to crafting clean, refactored code.
