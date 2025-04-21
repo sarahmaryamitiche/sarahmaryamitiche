@@ -67,9 +67,6 @@ Beyond the syntax of code, I am a meticulous planner and adept organizer, introd
 #
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahmaryamitiche&show_icons=true&theme=radical)
-
-#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmaryamitiche&layout=donut)](https://github.com/sarahmaryamitiche/github-readme-stats)
 
